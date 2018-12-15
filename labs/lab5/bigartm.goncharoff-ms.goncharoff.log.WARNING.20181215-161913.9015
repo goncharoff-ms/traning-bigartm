@@ -1,0 +1,13 @@
+Log file created at: 2018/12/15 16:19:13
+Running on machine: goncharoff-ms
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1215 16:19:13.238801  9030 helpers.cc:221] File already exists: batch_vectorizer_target_folder/aaaaaa.batch
+W1215 16:19:13.240092  9031 helpers.cc:221] File already exists: batch_vectorizer_target_folder/aaaaab.batch
+W1215 16:19:13.242158  9029 helpers.cc:221] File already exists: batch_vectorizer_target_folder/aaaaad.batch
+W1215 16:19:13.243620  9028 helpers.cc:221] File already exists: batch_vectorizer_target_folder/aaaaac.batch
+W1215 16:19:13.248555  9030 helpers.cc:221] File already exists: batch_vectorizer_target_folder/aaaaae.batch
+W1215 16:19:13.250999  9029 helpers.cc:221] File already exists: batch_vectorizer_target_folder/aaaaag.batch
+W1215 16:19:13.252792  9031 helpers.cc:221] File already exists: batch_vectorizer_target_folder/aaaaaf.batch
+W1215 16:19:13.254387  9028 helpers.cc:221] File already exists: batch_vectorizer_target_folder/aaaaah.batch
+W1215 16:19:13.261565  9029 helpers.cc:221] File already exists: batch_vectorizer_target_folder/aaaaaj.batch
+W1215 16:19:13.264019  9030 helpers.cc:221] File already exists: batch_vectorizer_target_folder/aaaaai.batch
